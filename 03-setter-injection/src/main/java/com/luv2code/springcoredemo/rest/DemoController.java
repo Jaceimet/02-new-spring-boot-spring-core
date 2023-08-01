@@ -24,6 +24,4 @@ public void setCoach(Coach theCoach){
 
     }
 
-
-
 }
