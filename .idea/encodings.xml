@@ -11,5 +11,7 @@
     <file url="file://$PROJECT_DIR$/04-qualifiers/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-primary/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-primary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-lazy-initialization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-lazy-initialization/src/main/resources" charset="UTF-8" />
   </component>
 </project>
