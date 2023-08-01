@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/01-constructor-injection/pom.xml" />
         <option value="$PROJECT_DIR$/02-component-scanning/pom.xml" />
         <option value="$PROJECT_DIR$/03-setter-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/04-qualifiers/pom.xml" />
       </list>
     </option>
   </component>
