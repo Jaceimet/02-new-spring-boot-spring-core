@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/02-component-scanning/pom.xml" />
         <option value="$PROJECT_DIR$/03-setter-injection/pom.xml" />
         <option value="$PROJECT_DIR$/04-qualifiers/pom.xml" />
+        <option value="$PROJECT_DIR$/05-primary/pom.xml" />
       </list>
     </option>
   </component>
