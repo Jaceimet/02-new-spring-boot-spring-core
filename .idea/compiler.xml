@@ -11,6 +11,7 @@
         <module name="03-setter-injection" />
         <module name="04-qualifiers" />
         <module name="05-primary" />
+        <module name="09-java-config-bean" />
         <module name="02-component-scanning" />
         <module name="01-constructor-injection" />
         <module name="07-bean-scopes" />
@@ -35,6 +36,7 @@
       <module name="06-lazy-initialization" options="-parameters" />
       <module name="07-bean-scopes" options="-parameters" />
       <module name="08-bean-lifecycle-methods" options="-parameters" />
+      <module name="09-java-config-bean" options="-parameters" />
       <module name="springcoredemo" options="-parameters" />
       <module name="springcoredemo (2)" options="-parameters" />
     </option>
