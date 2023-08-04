@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="06-lazy-initialization" />
+        <module name="08-bean-lifecycle-methods" />
         <module name="03-setter-injection" />
         <module name="04-qualifiers" />
         <module name="05-primary" />
@@ -33,6 +34,7 @@
       <module name="05-primary" options="-parameters" />
       <module name="06-lazy-initialization" options="-parameters" />
       <module name="07-bean-scopes" options="-parameters" />
+      <module name="08-bean-lifecycle-methods" options="-parameters" />
       <module name="springcoredemo" options="-parameters" />
       <module name="springcoredemo (2)" options="-parameters" />
     </option>
