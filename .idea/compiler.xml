@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="06-lazy-initialization" />
+        <module name="03-setter-injection" />
         <module name="04-qualifiers" />
         <module name="05-primary" />
-        <module name="06-lazy-initialization" />
         <module name="02-component-scanning" />
         <module name="01-constructor-injection" />
-        <module name="03-setter-injection" />
+        <module name="07-bean-scopes" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,6 +32,7 @@
       <module name="04-qualifiers" options="-parameters" />
       <module name="05-primary" options="-parameters" />
       <module name="06-lazy-initialization" options="-parameters" />
+      <module name="07-bean-scopes" options="-parameters" />
       <module name="springcoredemo" options="-parameters" />
       <module name="springcoredemo (2)" options="-parameters" />
     </option>
